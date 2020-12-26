@@ -2,4 +2,4 @@
 
 echo "Hello, Otus!"
 
-echo "Kakdila"
+echo "Kakdila?"
