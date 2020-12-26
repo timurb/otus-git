@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "Hello, Otus!"
+echo "Hello, Otus!!"
 
 echo "Kakdila"
