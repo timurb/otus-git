@@ -1,4 +1,6 @@
 #!/bin/sh
 
 echo "Hello, Otus!!!"
-echo "Kakdila?"
+sleep 1
+
+echo "Kakdila??"
